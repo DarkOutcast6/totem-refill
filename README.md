@@ -1,2 +1,3 @@
-# totem-refill
-Easily refills your offhand and a slot of your choice with a totem, if possible
+# Totem Refill
+
+A lightweight Fabric mod that automatically refills your offhand or hotbar slot with a Totem when you press a chosen key
